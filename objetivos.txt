@@ -1,0 +1,4 @@
+﻿Mis objetivos para el curso de Full Stack Developer son:
+- Ampliar mis conocimientos en programación y desarrollo
+- Adquirir metodología de trabajo
+- Mejorar mis oportunidades profesionales
